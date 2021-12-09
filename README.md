@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @Jithendra71
-- 👀 I’m interested in anything related to tech
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on WebD projects
-- 📫 How to reach me https://github.com/Jithendra71
+### Hello there 👋
 
-<!---
-Jithendra71/Jithendra71 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am Jithendra Kanamarlapudi, a Web-Developer with sufficient knowledge of the MERN Stack. :thinking:
+
+## About Me 😄:
+
+I am currently in 3rd year of pursuing my Integrated B.Tech + M.Tech Information Technology degree in [IIIT Gwalior](https://www.iiitm.ac.in/index.php/en/). My present goal is to develop cool web-applications using MERN and interact with more people intrested in WEBD.
+
+- :bulb: Looking for opportunities in Web-Development.
+- :books: **Languages** - C, C++, Javascript, Python.
+- 🏗️: **Tech stack** - MERN.
+- :gem: **Softwares** - Git, SQL, .
+
+:heart: Feel free to identify any mistakes in my repositories!
+
+
+<details>
+<summary>Click for GitHub Stats</summary>
+<p align="center">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jithendra71&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <br>
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jithendra71&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+</p>
+</details>
+
+## Contact Me :hugs:
+[![Linkedin Badge](https://img.shields.io/badge/-Jithendra%20Kanamarlapudi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jithendra-kanamarlapudi-045a23205/)](https://www.linkedin.com/in/jithendra-kanamarlapudi-045a23205/)    [![Gmail Badge](https://img.shields.io/badge/-jithendrakanamarlapudi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jithendrakanamarlapudi@gmail.com)](mailto:jithendrakanamarlapudi@gmail.com)       ![GitHub followers](https://img.shields.io/github/followers/Jithendra71?label=Follow&style=social)
