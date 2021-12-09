@@ -9,7 +9,7 @@ I am currently in 3rd year of pursuing my Integrated B.Tech + M.Tech Information
 - :bulb: Looking for opportunities in Web-Development.
 - :books: **Languages** - C, C++, Javascript, Python.
 - 🏗️: **Tech stack** - MERN.
-- :gem: **Softwares** - Git, SQL, .
+- :gem: **Softwares** - Git, SQL,Bootstrap .
 
 :heart: Feel free to identify any mistakes in my repositories!
 
