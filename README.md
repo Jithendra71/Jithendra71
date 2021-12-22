@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I am Jithendra Kanamarlapudi, a Web-Developer with sufficient knowledge of the MERN Stack. :thinking:
+I am Jithendra Kanamarlapudi, a full-stack Web-Developer with sufficient knowledge of the MERN Stack. :thinking:
 
 ## About Me 😄:
 
