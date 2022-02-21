@@ -6,7 +6,7 @@ I am Jithendra Kanamarlapudi, a full-stack Web-Developer with sufficient knowled
 
 I am currently in 3rd year of pursuing my Integrated B.Tech + M.Tech Information Technology degree in [IIIT Gwalior](https://www.iiitm.ac.in/index.php/en/). My present goal is to develop cool web-applications using MERN and interact with more people intrested in WEBD.
 
-- :star2: Do read my resume here: [Jithendra_Resume.pdf](https://drive.google.com/file/d/1z1lKwb2cdERlVAMWbVc3_BE1CFPb-7EC/view?usp=sharing)
+- :star2: Do read my resume here: [Jithendra_Resume.pdf](https://drive.google.com/file/d/1ekI2IkslAWw6jD29kqKlb-HZl-83mToi/view?usp=sharing)
 - :bulb: Looking for opportunities in Web-Development.
 - :books: **Languages** - C, C++, Javascript, Python.
 - 🏗️: **Tech stack** - MERN.
